@@ -1,0 +1,16 @@
+.fa {
+    display: flex;
+    padding: 20px;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  .iconify{
+      font-size: 30px;
+  }
+  .timepass{
+      font-size: 30px;
+      padding: 5px;
+  }
